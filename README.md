@@ -12,5 +12,5 @@
   ##
  
 <div>  
-   ![Snake animation](https://github.com/luckspt/luckspt/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://raw.githubusercontent.com/luckspt/luckspt/output/github-contribution-grid-snake.svg)
 </div>
