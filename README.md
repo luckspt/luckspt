@@ -1,7 +1,8 @@
 <div>
  <h1>Lucas Pinto</h1>
- <p>Likes Web Dev, specially backend.</p>
- <p>Undergraduate IT Student @ FCUL</p>
+ <p>Likes Web Dev, specially backend. Interested in Cybersecurity and Distributed Systems</p>
+ <p>MSc Computer Science and Engineering Student @ IST</p>
+ <p>Undergraduate IT @ FCUL</p>
 </div>
 <div>
   <a href="https://github.com/luckspt">
